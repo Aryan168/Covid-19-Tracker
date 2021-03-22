@@ -3,7 +3,7 @@ A Covid-19 Tracker created using React.
 
 Used Data from "https://disease.sh/docs/"
 
-
+![preview](https://user-images.githubusercontent.com/81144067/111964383-8c0ced00-8b1a-11eb-916c-423c52f24cce.jpg)
 
 # Getting Started with Create React App
 
